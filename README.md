@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Awesome Tracing Table
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Revolutionary application that simulates a tracing table! 
 
-## Available Scripts
+## Requirements
 
-In the project directory, you can run:
+You'll need:
+- a notebook with a 180 degree opening hinge;
+- a little bit of masking tape;
+- a drawing that you want to trace;
+- and a clean paper sheet to draw on it
 
-### `npm start`
+Despites the humongous amount of technology invested on this project, that's all you need!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## How to use it?
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. First of all, you'll click the *experience* button. 
+2. After that, the complex logic behind the **Awesome Tracing Table** will start to process (your computer may freeze) , and in a while you'll have a completelly white screen.
+3. After the magic happens, you'll need to open your notebook until you have a perfect 180° opening.
+4. Then, you'll tape your drawing into the notebook screen. Yes, it's just that easy!
+5. After that, you can put your clean paper sheet on top of the drawing, and voilá, start to trace rigth there. You may also tape the paper sheet at the scree, to avoid it from moving while you're tracing.
 
-### `npm test`
+## Observations
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+In order to have best possible experience from the **Awesome Tracing Table**, it's recommended the use of a paper sheet that fits the size of yours notebook screen.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+----
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Experience brougth to you by: Matheuszinn

@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { DocumentFullScreen } from "@chiragrupani/fullscreen-react";
+
+import "./App.css";
+
+import Introduction from "./Introduction";
+import Experience from './Experience';
 
 function App() {
+  const [isVisible, setVisible] = React.useState(true);
+  const [isFullScreen, setFullscreen] = React.useState(false);
+
+  const toggleExperience = () => {
+    setVisible(!isVisible);
+    setFullscreen(!isFullScreen);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <DocumentFullScreen isFullScreen={isFullScreen} onChange={toggleExperience}>
+      <div className="App">
+        <header className="App-header">
+          {isVisible && <Introduction />}
+          {isVisible && <Experience callback={toggleExperience}/>}
+        </header>
+      </div>
+    </DocumentFullScreen>
   );
 }
 

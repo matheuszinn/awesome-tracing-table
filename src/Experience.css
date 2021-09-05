@@ -1,0 +1,20 @@
+.App-Button {
+  background-color: white;
+  border-style: solid;
+  border-color: grey;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: calc(16px + 1vmin);
+  padding: 8px 10px;
+  color: grey;
+  margin-top: 50px;
+}
+
+.App-Button:hover {
+  background-color: grey;
+  color: white;
+  transition: color 1s, background-color 1s;
+}
