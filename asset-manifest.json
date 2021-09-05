@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/awesome-tracing-table/static/css/main.8ab0c265.chunk.css",
+    "main.js": "/awesome-tracing-table/static/js/main.7755f0ff.chunk.js",
+    "main.js.map": "/awesome-tracing-table/static/js/main.7755f0ff.chunk.js.map",
+    "runtime-main.js": "/awesome-tracing-table/static/js/runtime-main.38ce4c83.js",
+    "runtime-main.js.map": "/awesome-tracing-table/static/js/runtime-main.38ce4c83.js.map",
+    "static/js/2.3b175d12.chunk.js": "/awesome-tracing-table/static/js/2.3b175d12.chunk.js",
+    "static/js/2.3b175d12.chunk.js.map": "/awesome-tracing-table/static/js/2.3b175d12.chunk.js.map",
+    "static/js/3.420d0123.chunk.js": "/awesome-tracing-table/static/js/3.420d0123.chunk.js",
+    "static/js/3.420d0123.chunk.js.map": "/awesome-tracing-table/static/js/3.420d0123.chunk.js.map",
+    "index.html": "/awesome-tracing-table/index.html",
+    "static/css/main.8ab0c265.chunk.css.map": "/awesome-tracing-table/static/css/main.8ab0c265.chunk.css.map",
+    "static/js/2.3b175d12.chunk.js.LICENSE.txt": "/awesome-tracing-table/static/js/2.3b175d12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38ce4c83.js",
+    "static/js/2.3b175d12.chunk.js",
+    "static/css/main.8ab0c265.chunk.css",
+    "static/js/main.7755f0ff.chunk.js"
+  ]
+}
