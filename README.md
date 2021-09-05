@@ -2,6 +2,8 @@
 
 Revolutionary application that simulates a tracing table! 
 
+Check it right here: https://matheuszinn.github.io/awesome-tracing-table/
+
 ## Requirements
 
 You'll need:
